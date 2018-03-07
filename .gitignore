@@ -1,0 +1,5 @@
+#git ignore test
+#comment out
+
+*.data
+!e.data
