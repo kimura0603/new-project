@@ -3,3 +3,6 @@
 
 *.data
 !e.data
+
+#testfolder1/
+testfolder*
